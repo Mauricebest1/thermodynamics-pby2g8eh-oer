@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "packageId": "pkg-thermodynamics-pby2g8eh",
+  "title": "Thermodynamics",
+  "description": "",
+  "discipline": "chemistry",
+  "courseContext": {},
+  "license": "CC-BY-4.0",
+  "unitTerm": "chapter",
+  "createdAt": "2026-06-18T07:24:16.634Z",
+  "publicRepo": {
+    "owner": "Mauricebest1",
+    "name": "thermodynamics-pby2g8eh-oer"
+  },
+  "privateRepo": {
+    "owner": "Mauricebest1",
+    "name": "thermodynamics-pby2g8eh-private"
+  }
+}
